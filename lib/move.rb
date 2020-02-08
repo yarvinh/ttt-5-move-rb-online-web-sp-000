@@ -15,7 +15,7 @@ end
 input_to_index(["1","2","3","4","5","6","7","8","9"])
 
 number = "10"
-puts number
+puts number.class
 puts number.to_i
 
 # def move(board_array,index,player = "x")
