@@ -14,5 +14,3 @@ input_to_index(["1".to_i,"2".to_i,"3""2".to_i,"4""2".to_i,"5""2".to_i,"6""2".to_
 
 def move()
 end
-
-
