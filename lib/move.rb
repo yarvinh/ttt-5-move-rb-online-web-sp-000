@@ -10,4 +10,4 @@ end
 def input_to_index(user_input)
   display_board(user_input)
 end
-input_to_index('"","","",",",",",","')
+input_to_index("","","",",",",",",")
