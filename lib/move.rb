@@ -10,4 +10,4 @@ end
 def input_to_index(user_input)
   display_board(user_input)
 end
-input_to_index([" 1","2 "," 3"," 4"," 5"," 6"," 7"," 8","9 "])
+input_to_index(["1","2","3","4","5","6","7","8","9"])
