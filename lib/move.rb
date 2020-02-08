@@ -10,7 +10,7 @@ end
 display_board([" "," "," "," "," "," "," "," "," "])
 
 def input_to_index(user_input)
-  display_board(user_input[1 - 1])
+  display_board(user_input)
   # display_board(user_input[1 - 1])
   # display_board(user_input[1 - 1])
   # display_board(user_input[1 - 1])
