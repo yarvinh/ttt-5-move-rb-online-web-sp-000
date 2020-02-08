@@ -17,4 +17,4 @@ end
 def move(board,position,player = "x")
   board = ["X", " ", " ", " ", " ", " ", " ", " ", " "]
 end
-move(board, 0, "X")
+# move(board, 0, "X")
