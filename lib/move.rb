@@ -18,4 +18,3 @@ def move(board,position,player = "x")
   return board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 end
-
