@@ -8,8 +8,8 @@ end
 
 # code your input_to_index and move method here!
 def input_to_index(user_input)
-  puts user_input - 1
-  display_board(user_input)
+  
+  display_board(user_input[1])
 
 
 end
