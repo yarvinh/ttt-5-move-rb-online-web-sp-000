@@ -10,7 +10,7 @@ end
 def input_to_index(user_input)
   display_board(user_input)
 end
-input_to_index(["1".to_i,"2".to_i,"3""2".to_i,"4""2".to_i,"5""2".to_i,"6""2".to_i,"7""2".to_i,"8""2".to_i,"9""2".to_i])
+input_to_index(["1".to_i,"2".to_i,"3".to_i,"4".to_i,"5".to_i,"6".to_i,"7".to_i,"8".to_i,"9".to_i])
 
 def move()
 end
