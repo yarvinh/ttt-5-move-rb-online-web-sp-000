@@ -15,6 +15,6 @@ def input_to_index(user_input)
 end
 
 def move(board,position,player = "x")
-  board = ["x", " ", " ", " ", " ", " ", " ", " ", " "]
+  board = [player, " ", " ", " ", " ", " ", " ", " ", " "]
   display_board(board)
 end
