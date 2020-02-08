@@ -16,5 +16,5 @@ end
 
 def move(board,position,player = "x")
   board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+  display_board(board)
 end
-display_board(board)
