@@ -11,4 +11,4 @@ require_relative '../lib/move.rb'
 
 board = gets.strip
 
-move(board,1)
+# move(board,1)
