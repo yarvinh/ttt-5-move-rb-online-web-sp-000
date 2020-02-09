@@ -9,4 +9,5 @@ require_relative '../lib/move.rb'
 # #
 #  input_to_index(user_input)
 
-BOARD
+board = gets.strip
+move(board,position,player = "X")
