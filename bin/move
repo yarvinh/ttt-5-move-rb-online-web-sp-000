@@ -11,3 +11,5 @@ require_relative '../lib/move.rb'
  index = input_to_index(gets.strip)
 
  move(board,index)
+
+display_board(board)
