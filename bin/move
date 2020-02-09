@@ -9,6 +9,6 @@ require_relative '../lib/move.rb'
 # #
 #  input_to_index(user_input)
 
-board = 
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 # move(board,1)
